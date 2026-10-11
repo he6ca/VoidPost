@@ -2,7 +2,7 @@
 
 A single-file web console for publishing text and photo posts to a Facebook Page you manage, using Facebook's official Graph API.
 
-Made by **he6ća** · [t.me/he6ća](https://t.me/he6ća)
+Made by **he6ća** · [t.me/he6ca](https://t.me/he6ća)
 
 ---
 
